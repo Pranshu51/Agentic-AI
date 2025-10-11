@@ -1,4 +1,4 @@
-# # 2. Few-shot Prompting: The model is provide few examples before giving to generate the response.
+# # auto chai of thought prompting
 # from openai import OpenAI
 # import os
 # import json

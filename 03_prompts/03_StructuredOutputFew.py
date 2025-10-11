@@ -1,4 +1,5 @@
-# 2. Few-shot Prompting: The model is provide few examples before giving to generate the response.
+# Structured Output Few-shot Prompting
+# 2. Few-shot Prompting: The model is provide few examples before giving to generate
 from openai import OpenAI
 import os
 from dotenv import load_dotenv
