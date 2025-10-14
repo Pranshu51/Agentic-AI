@@ -1,3 +1,4 @@
+#rq worker => difficulty in running
 from fastapi import FastAPI,Query
 from client.rq_client import queue
 from queues.worker import process_query
